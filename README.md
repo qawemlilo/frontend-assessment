@@ -17,6 +17,8 @@ The structure of the project and all the dependencies have been setup.
   2. Use the MovieDB api to implement a search functionality
   3. Make the movies clickable and displayed using ShowMovie component
 
-Once all tasks are complete, create a pull request to master
+Once all tasks are complete, create a pull request to master. 
+
+If you have any questions, feel free to ask on WhatsApp.
 
 
