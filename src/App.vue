@@ -4,7 +4,7 @@ import Search from './components/Search.vue'
 
 <template>
   <div>
-    <h1>
+    <h1 class="text-center mt-5">
       MovieDB Search Engine
     </h1>
     <Search />
